@@ -1,0 +1,15 @@
+{
+  "name": "car-dealership-crud",
+  "version": "1.0.0",
+  "description": "CRUD operations for car dealership catalog",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "dev": "ts-node index.ts",
+    "watch": "tsc --watch"
+  },
+  "keywords": ["typescript", "crud", "cars"],
+  "author": "Student",
+  "license": "ISC"
+}
